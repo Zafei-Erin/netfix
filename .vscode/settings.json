@@ -1,0 +1,11 @@
+{
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "editor.codeActionsOnSave": {
+    "editor.formatOnSave": "explicit",
+    "source.sortImports": "explicit"
+  }
+}
